@@ -23,17 +23,17 @@
 
 ![mini mode](https://github.com/lijinke666/react-music-player/blob/master/assetsImg/mini.png?raw=true)
 
-> Light Theme
+> Home Screen
+![Home Screen](./assetsImg/screenshot1.png)
 
-![light theme](https://github.com/lijinke666/react-music-player/blob/master/assetsImg/light-theme.png?raw=true)
+> Genre Selection
+![Genre Selection](./assetsImg/screenshot2.png)
 
-> Dark Theme
+> Station List 1
+![Station List 1](./assetsImg/screenshot3.png)
 
-![dark theme](https://github.com/lijinke666/react-music-player/blob/master/assetsImg/dark-theme.png?raw=true)
-
-> Mobile
-
-![mobile](https://github.com/lijinke666/react-music-player/blob/master/assetsImg/mobile.jpg?raw=true)
+> Station List 2
+![Station List 2](./assetsImg/screenshot4.png)
 
 ---
 
