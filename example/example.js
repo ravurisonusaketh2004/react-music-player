@@ -1026,9 +1026,8 @@ class Demo extends React.PureComponent {
             <Switch
               checkedChildren="zh"
               unCheckedChildren="en"
-              checked={params.locale === Locale.zh_CN}
-              onChange={(checked) =>
-                this.onChangeKey(checked ? Locale.zh_CN : Locale.en_US)
+              checked={false}
+onChange={() => {}}
               }
             />
           </div>
