@@ -32,8 +32,6 @@
 > Station List 1
 ![Station List 1](./assetsImg/screenshot3.png)
 
-> Station List 2
-![Station List 2](./assetsImg/screenshot4.png)
 
 ---
 
